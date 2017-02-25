@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <!-- Miwok translation for color red -->
+    <string name="miwok_color_red">hóng sè (红 色)</string>
+
+    <!-- Miwok translation for color dusty yellow -->
+    <string name="miwok_color_dusty_yellow">huī huáng(灰  黄)</string>
+
+    <!-- Miwok translation for color mustard yellow -->
+    <string name="miwok_color_mustard_yellow">jiè mo huáng sè(芥 末 黄 色)</string>
+
+    <!-- Miwok translation for color green -->
+    <string name="miwok_color_green">lǜ sè(绿 色)</string>
+
+    <!-- Miwok translation for color brown -->
+    <string name="miwok_color_brown">zōng sè(棕 色)</string>
+
+    <!-- Miwok translation for color black -->
+    <string name="miwok_color_black">hēi sè(黑  色)</string>
+
+    <!-- Miwok translation for color gray -->
+    <string name="miwok_color_gray">huī sè(灰 色)</string>
+
+    <!-- Miwok translation for color white -->
+    <string name="miwok_color_white">bái sè(白 色)</string>
+
+    <!-- Miwok translation for father -->
+    <string name="miwok_family_father">fù qin （父 亲）</string>
+
+    <!-- Miwok translation for mother -->
+    <string name="miwok_family_mother">mǔ qin（母 亲）</string>
+
+    <!-- Miwok translation for son -->
+    <string name="miwok_family_son">ér zi（儿 子）</string>
+
+    <!-- Miwok translation for daughter -->
+    <string name="miwok_family_daughter">nǚ ér（女 儿） </string>
+
+    <!-- Miwok translation for older brother -->
+    <string name="miwok_family_older_brother">gē ge（哥 哥）</string>
+
+    <!-- Miwok translation for younger brother -->
+    <string name="miwok_family_younger_brother">dì di（弟 弟）</string>
+
+    <!-- Miwok translation for older sister -->
+    <string name="miwok_family_older_sister">jiě jie（姐 姐）</string>
+
+    <!-- Miwok translation for younger sister -->
+    <string name="miwok_family_younger_sister">mèi mei（妹妹）</string>
+
+    <!-- Miwok translation for grandmother -->
+    <string name="miwok_family_grandmother">nǎi nai（奶奶）</string>
+
+    <!-- Miwok translation for grandfather -->
+    <string name="miwok_family_grandfather">yé ye （爷 爷）</string>
+
+    <!-- Miwok translation for number one -->
+    <string name="miwok_number_one"> yī（一）</string>
+
+    <!-- Miwok translation for number two -->
+    <string name="miwok_number_two">èr(二)</string>
+
+    <!-- Miwok translation for number three -->
+    <string name="miwok_number_three">sān（三）</string>
+
+    <!-- Miwok translation for number four -->
+    <string name="miwok_number_four">sì（四）</string>
+
+    <!-- Miwok translation for number five -->
+    <string name="miwok_number_five">wǔ（五）</string>
+
+    <!-- Miwok translation for number six -->
+    <string name="miwok_number_six">liù（六）</string>
+
+    <!-- Miwok translation for number seven -->
+    <string name="miwok_number_seven">qī（七）</string>
+
+    <!-- Miwok translation for number eight -->
+    <string name="miwok_number_eight">bā （八）</string>
+
+    <!-- Miwok translation for number nine -->
+    <string name="miwok_number_nine">jiǔ （九）</string>
+
+    <!-- Miwok translation for number ten -->
+    <string name="miwok_number_ten">shí（十）</string>
+
+   <string name="chinese_word_teacher">lǎo shī(老 师)</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="chinese_word_sun">tài yáng（太 阳）</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_rain">yǔ（雨）</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="chinese_word_temperature">wēn dù（温 度）</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_moon">yuè liang（月 亮）</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_cloud">yún（云）</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="chinese_word_picture">zhào piàn（照 片）</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_date">rì qī（日 期）</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_forest">sēn lín（森 林）</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="chinese_word_flower">huā（花）</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="chinese_word_tree">shù（树）</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_animal">dòng wù（动 物）</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="chinese_word_fish">yú（鱼）</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_dog">gǒu（狗）</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_horse">mǎ（马）</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="chinese_word_chicken">jī（鸡）</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_cow">niú（牛）</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_monkey">hóu zi（猴 子）</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="chinese_word_pig">zhū（猪）</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="chinese_word_building">jiàn zhù（建 筑）</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_bank">yín háng（银 行）</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="chinese_word_hospital">yī yuàn（医 院）</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_school">xué xiào（学 校）</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_office">bàn gōng shì（办 公 室）</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="chinese_word_classroom">jiào shì（教 室）</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_room">fáng jiān（房  间）</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_bus">gōng gòng qì chē（公 共 汽 车）</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="chinese_word_church">jiào táng（教  堂）</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="chinese_word_playground">cāo chǎng(操 场)</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="chinese_word_sport">yùn dòng(运 动)</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_football">zú qiú(足  球)</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="chinese_word_basketball">lán qiú(篮 球)</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_volleyball">pái qiú(排  球)</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_tennis">wǎng qiú(网  球)</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="chinese_word_jogging">màn pǎo(慢  跑)</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_car">qì chē(汽 车)</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_motorbike">mó tuō chē(摩 托 车)</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="chinese_word_bicycle">zì xíng chē(自 行 车)</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="chinese_word_plane">fēi jī（飞 机）</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_truck">kǎ chē（卡 车）</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_ship">chuán（船）</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_crossroads">shí zì lù kǒu（字 路 十 口）</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="chinese_word_speed">sù dù（速 度）</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="chinese_word_fast">kuài sù（快 速）</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="chinese_word_slow">huǎn màn(缓  慢)</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="chinese_word_big">dà(大)</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_small">xiǎo（小）</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_thick">hòu（厚）</string>
+
+    <!--&lt;!&ndash;&lt;!&ndash; Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] &ndash;&gt;&ndash;&gt;-->
+    <!--<string name="word_thin">thin</string>-->
+
+    <!--&lt;!&ndash;&lt;!&ndash; Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] &ndash;&gt;&ndash;&gt;-->
+    <!--<string name="word_tall">tall</string>-->
+
+    <!--&lt;!&ndash;&lt;!&ndash; Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] &ndash;&gt;&ndash;&gt;-->
+    <!--<string name="word_short">short</string>-->
+
+    <!--&lt;!&ndash;&lt;!&ndash; Vocabulary phrase for "Let's go." [CHAR LIMIT=20] &ndash;&gt;&ndash;&gt;-->
+    <!--<string name="word_message">message</string>-->
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="chinese_word_key">yào shi（钥 匙）</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_student">xué sheng（学 生）</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="chinese_word_colleague">tóng shì（同 事）</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_fruit">shuǐ guǒ（水 果）</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_apple">píng guǒ（苹 果）</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="chinese_word_banana">xiāng jiāo（香 蕉）</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="chinese_word_orange">chéng sè(橙 色)</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_mango">máng guǒ(芒 果)</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_pineapple">bō luó(菠  萝)</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="chinese_word_food">shí wù(食 物)</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_meat">肉(ròu)</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_vegetable">shū cài(蔬 菜)</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="chinese_word_beer">píjiǔ(啤 酒)</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="chinese_word_milk">niú nǎi(牛 奶)</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_juice">guǒ zhī(果 汁)</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="chinese_word_water">shuǐ (水)</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="chinese_word_thin">bó (薄)</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_tall">gāo (高)</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="chinese_word_short">duǎn (短)</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="chinese_word_message">xiāo xi(消 息)</string>
+
+
+    <string name="chinese_verb_speak">shuō (说)</string>
+
+    <string name="chinese_verb_listen">tīng（听）</string>
+
+    <string name="chinese_verb_write">xiě（写）</string>
+
+    <string name="chinese_verb_read">dú（读）</string>
+
+    <string name="chinese_verb_play">wán（玩）</string>
+
+    <string name="chinese_verb_eat">chī（吃）</string>
+
+    <string name="chinese_verb_drink">hē（喝）</string>
+
+    <string name="chinese_verb_study">xué xí（学 习）</string>
+
+    <string name="chinese_verb_work">gōng zuò（工 作）</string>
+
+    <string name="chinese_verb_run">pǎo bù（跑 步）</string>
+
+    <string name="chinese_verb_walk">sàn bù(散 步)</string>
+
+    <string name="chinese_verb_teach">jiāo (教)</string>
+
+    <string name="chinese_verb_drive">qū dòng(驱 动)</string>
+
+    <string name="chinese_verb_ride">qí (骑)</string>
+
+    <string name="chinese_verb_buy">mǎi (买)</string>
+
+    <string name="chinese_verb_sell">mài(卖)</string>
+
+    <string name="chinese_verb_sit">zuò(坐)</string>
+
+    <string name="chinese_verb_wear">chuān (穿)</string>
+
+</resources>

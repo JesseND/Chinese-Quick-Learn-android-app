@@ -1,0 +1,388 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Chinese Quick Learn</string>
+
+    <!-- A welcoming message from the mainActivity when the user first opens the app-->
+    <string name="welcoming_title">     CHINESE QUICK LEARN     </string>
+
+    <string name="welcoming_string">Thanks for downloading the Chinese Quick Learn(CQL) application.
+    This is a shortcut to master the mandarin quickly, it teaches you the important and basic terms of the language starting from beginners</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_words"
+        size="4dp">Words</string>
+
+    <string name="category_verbs"
+        >Verbs</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors"
+             size="4dp">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers"
+            size="4dp">Count</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family"
+              size="4dp">Family</string>
+
+    <!-- Vocabulary word for the color red [CHAR LIMIT=20] -->
+    <string name="color_red">red</string>
+
+    <!-- Vocabulary word for the color dusty yellow [CHAR LIMIT=20] -->
+    <string name="color_dusty_yellow">dusty yellow</string>
+
+    <!-- Vocabulary word for the color mustard yellow [CHAR LIMIT=20] -->
+    <string name="color_mustard_yellow">mustard yellow</string>
+
+    <!-- Vocabulary word for the color green [CHAR LIMIT=20] -->
+    <string name="color_green">green</string>
+
+    <!-- Vocabulary word for the color brown [CHAR LIMIT=20] -->
+    <string name="color_brown">brown</string>
+
+    <!-- Vocabulary word for the color black [CHAR LIMIT=20] -->
+    <string name="color_black">black</string>
+
+    <!-- Vocabulary word for the color gray [CHAR LIMIT=20] -->
+    <string name="color_gray">gray</string>
+
+    <!-- Vocabulary word for the color white [CHAR LIMIT=20] -->
+    <string name="color_white">white</string>
+
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="number_one">one</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="number_two">two</string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="number_three">three</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="number_four">four</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="number_five">five</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="number_six">six</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="number_seven">seven</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="number_eight">eight</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="number_nine">nine</string>
+
+    <!-- Vocabulary word for the number ten [CHAR LIMIT=20] -->
+    <string name="number_ten">ten</string>
+
+    <!-- Vocabulary word for the father family member [CHAR LIMIT=20] -->
+    <string name="family_father">father</string>
+
+    <!-- Vocabulary word for the mother family member [CHAR LIMIT=20] -->
+    <string name="family_mother">mother</string>
+
+    <!-- Vocabulary word for the son family member [CHAR LIMIT=20] -->
+    <string name="family_son">son</string>
+
+    <!-- Vocabulary word for the daughter family member [CHAR LIMIT=20] -->
+    <string name="family_daughter">daughter</string>
+
+    <!-- Vocabulary word for the older brother family member [CHAR LIMIT=20] -->
+    <string name="family_older_brother">older brother</string>
+
+    <!-- Vocabulary word for the younger brother family member [CHAR LIMIT=20] -->
+    <string name="family_younger_brother">younger brother</string>
+
+    <!-- Vocabulary word for the older sister family member [CHAR LIMIT=20] -->
+    <string name="family_older_sister">older sister</string>
+
+    <!-- Vocabulary word for the younger sister family member [CHAR LIMIT=20] -->
+    <string name="family_younger_sister">younger sister</string>
+
+    <!-- Vocabulary word for the grandmother family member [CHAR LIMIT=20] -->
+    <string name="family_grandmother">grandmother</string>
+
+    <!-- Vocabulary word for the grandfather family member [CHAR LIMIT=20] -->
+    <string name="family_grandfather">grandfather</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="word_sun">sun</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="word_rain">rain</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="word_temperature">temperature</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="word_moon">moon</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="word_cloud">cloud</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="word_picture">picture</string>
+
+
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_date">date</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_forest">forest</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="word_flower">flower</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="word_tree">tree</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="word_animal">animal</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="word_fish">fish</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="word_dog">dog</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="word_horse">horse</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="word_chicken">chicken</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_cow">cow</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_monkey">monkey</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="word_pig">pig</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="word_building">building</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="word_bank">bank</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="word_hospital">hospital</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="word_school">school</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="word_office">office</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="word_classroom">classroom</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_room">room</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_bus">bus</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="word_church">church</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="word_playground">playground</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="word_sport">sport</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="word_football">football</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="word_basketball">basketball</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="word_volleyball">volleyball</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="word_tennis">tennis</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="word_jogging">jogging</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_car">car</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_motorbike">motorbike</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="word_bicycle">bicycle</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="word_plane">plane</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_truck">truck</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_ship">ship</string>
+
+    <!-- Vocabulary phrase for "What is your name?" [CHAR LIMIT=20] -->
+    <string name="word_crossroads">crossroads</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="word_speed">speed</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="word_fast">fast</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="word_slow">slow</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="word_big">big</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="word_small">small</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="word_thick">thick</string>
+
+    <!--&lt;!&ndash;&lt;!&ndash; Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] &ndash;&gt;&ndash;&gt;-->
+    <!--<string name="word_thin">thin</string>-->
+
+    <!--&lt;!&ndash;&lt;!&ndash; Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] &ndash;&gt;&ndash;&gt;-->
+    <!--<string name="word_tall">tall</string>-->
+
+    <!--&lt;!&ndash;&lt;!&ndash; Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] &ndash;&gt;&ndash;&gt;-->
+    <!--<string name="word_short">short</string>-->
+
+    <!--&lt;!&ndash;&lt;!&ndash; Vocabulary phrase for "Let's go." [CHAR LIMIT=20] &ndash;&gt;&ndash;&gt;-->
+    <!--<string name="word_message">message</string>-->
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="word_key">key</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="word_student">student</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="word_teacher">teacher</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="word_colleague">colleague</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_fruit">fruit</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_apple">apple</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="word_banana">banana</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="word_orange">orange</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="word_mango">mango</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="word_pineapple">pineapple</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="word_food">food</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_meat">meat</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_vegetable">vegetable</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="word_beer">beer</string>
+
+    <!-- Vocabulary phrase for "My name is..." [CHAR LIMIT=20] -->
+    <string name="word_milk">milk</string>
+
+    <!-- Vocabulary phrase for "How are you feeling?" [CHAR LIMIT=20] -->
+    <string name="word_juice">juice</string>
+
+    <!-- Vocabulary phrase for "Are you coming?" [CHAR LIMIT=20] -->
+    <string name="word_water">water</string>
+
+    <!-- Vocabulary phrase for "I'm feeling good." [CHAR LIMIT=20] -->
+    <string name="word_thin">thin</string>
+
+    <!-- Vocabulary phrase for "Yes, I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_tall">tall</string>
+
+    <!-- Vocabulary phrase for "I'm coming." [CHAR LIMIT=20] -->
+    <string name="word_short">short</string>
+
+    <!-- Vocabulary phrase for "Let's go." [CHAR LIMIT=20] -->
+    <string name="word_message">message</string>
+
+    <string name="verb_speak">Speak</string>
+
+    <string name="verb_listen">Listen</string>
+
+    <string name="verb_write">Write</string>
+
+    <string name="verb_read">Read</string>
+
+    <string name="verb_play">Play</string>
+
+    <string name="verb_eat">Eat</string>
+
+    <string name="verb_drink">Drink</string>
+
+    <string name="verb_study">Study</string>
+
+    <string name="verb_work">Work</string>
+
+    <string name="verb_run">Run</string>
+
+    <string name="verb_walk">Walk</string>
+
+    <string name="verb_teach">Teach</string>
+
+    <string name="verb_drive">Drive</string>
+
+    <string name="verb_ride">Ride</string>
+
+    <string name="verb_buy">Buy</string>
+
+    <string name="verb_sell">Sell</string>
+
+    <string name="verb_sit">Sit</string>
+
+    <string name="verb_wear">Wear</string>
+    <!--Vocabulary verbs -->
+
+    <!-- Vocabulary phrase for "Come here." [CHAR LIMIT=20] -->
+    <string name="phrase_come_here">Come here.</string>
+
+
+
+</resources>
